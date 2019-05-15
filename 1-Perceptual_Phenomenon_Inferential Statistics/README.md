@@ -5,11 +5,12 @@ Objective: In this project, you will investigate a classic phenomenon from exper
 Project File: Test a Perceptual Phenomenon.ipynb
 Dataset: stroopdata.csv
 
-### Software and Libraries  
+### Software and Python Packages 
 jupyter notebook
 
 **Packages**
-python 3
-pandas
-numpy
-matplotlib
+python 3  
+pandas  
+numpy  
+matplotlib  
+
