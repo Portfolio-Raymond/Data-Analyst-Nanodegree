@@ -26,13 +26,6 @@ Additional packages listed with each project
 **R Packages**  
   
 R packages listed with project  
-  
-  
-## License  
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License  
-Creative Commons License
-
-
 
 
 
