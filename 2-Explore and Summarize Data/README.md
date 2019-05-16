@@ -7,7 +7,7 @@ Exploratory Data Analysis (EDA) is the numerical and graphical examination of da
 **Objective:**  Investigate a dataset of 1599 red wines, explore 11 physicochemical properties, and determine the ones that most influenced the quality rating of the wine using statistical plots, and regression and correlation analysis.  
 
 
-### Software and R Packages  
+### Software and R Packages    
 R Studio v1.1.453   
 R v3.5.0   
 
@@ -25,7 +25,7 @@ corrplot
 
 
 
-## License  
+## License    
   
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License  
  Creative Commons License
