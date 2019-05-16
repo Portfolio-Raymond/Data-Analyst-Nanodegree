@@ -8,7 +8,6 @@ For this project, you will create an explanatory data visualization using Tablea
 
 **Software**  
 Tableau 2018  
-MS Excel 
   
 Dataset -  baseball_data.csv  
   
