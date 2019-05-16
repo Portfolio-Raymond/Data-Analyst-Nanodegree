@@ -15,6 +15,7 @@ You will need to install
   
 
 **Python Packages**  
+  
 - Pandas  
 - Numpy  
 - Matplotlib
@@ -23,6 +24,7 @@ Additional packages listed with each project
   
   
 **R Packages**  
+  
 R packages listed with project  
   
   
