@@ -14,7 +14,7 @@ You will need to install
 - Tableau (2018 or higher)
   
 
-**General Python Packages**  
+**Python Packages**  
 - Pandas  
 - Numpy  
 - Matplotlib
