@@ -14,6 +14,4 @@ Dataset -  baseball_data.csv
   
 Project Link - https://public.tableau.com/profile/ray5513#!/vizhome/Udacity_Project4BaseballStory1a/Story1a?publish=yes  
 
-### License  
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License  
-Creative Commons License
+
