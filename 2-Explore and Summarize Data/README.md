@@ -11,7 +11,7 @@ Exploratory Data Analysis (EDA) is the numerical and graphical examination of da
 R Studio v1.1.453   
 R v3.5.0   
 
-**Packages**
+**Packages**  
 ggplot2  
 dplyr  
 reshape2  
