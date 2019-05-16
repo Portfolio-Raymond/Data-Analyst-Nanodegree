@@ -8,12 +8,12 @@ The dataset that you will be wrangling (and analyzing and visualizing) is the tw
  **Project Details**  
 Your tasks in this project are as follows:  
 
-Data wrangling, which consists of:  
-Gathering data  
-Assessing data  
-Cleaning data  
-Storing, analyzing, and visualizing your wrangled data  
-Reporting on 1) your data wrangling efforts and 2) your data analyses and visualizations  
+- Data wrangling, which consists of:  
+  - Gathering data  
+  - Assessing data  
+  - Cleaning data  
+- Storing, analyzing, and visualizing your wrangled data  
+- Reporting on 1) your data wrangling efforts and 2) your data analyses and visualizations  
 
  
 **Objective:**  Gather data from 3 disparate systems (Excel file, website, and Twitter API). You will be wrangling and merging the datasets into a master file, which you will analyze and visualize highlighting at least 3 insights.     
