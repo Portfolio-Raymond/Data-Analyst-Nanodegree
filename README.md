@@ -6,7 +6,7 @@ The program was designed so you will gain all the skills necessary to get a job 
   
 You will need to install  
   
-- Python (3.x or higher)  
+- Python (3.6 or higher)  
 - Jupyter Notebook 
 - R (3.5 or higher)
 - R Studio  
