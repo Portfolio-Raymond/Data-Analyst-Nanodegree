@@ -16,7 +16,7 @@ Your tasks in this project are as follows:
 - Reporting on 1) your data wrangling efforts and 2) your data analyses and visualizations  
 
  
-**Objective:**  Gather data from 3 disparate systems (Excel file, website, and Twitter API). Wrangle and merge the datasets into a master file, then analyze and visualize highlighting at least 3 insights.     
+**Objective:**  Gather data from 3 disparate systems (Excel file, website, and Twitter API). Wrangle and merge the datasets into a master file, then analyze it highlighting at least 3 insights with visualizations. 
 
 
 ### Software and Python Packages    
