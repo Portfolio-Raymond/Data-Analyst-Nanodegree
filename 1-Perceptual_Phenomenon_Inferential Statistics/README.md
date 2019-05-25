@@ -6,7 +6,7 @@
 **Dataset** - stroopdata.csv  
 
 ### Software and Python Packages 
-jupyter notebook  
+Jupyter Notebook  
 Python (3.6 or higher)    
 
 **Packages**  
