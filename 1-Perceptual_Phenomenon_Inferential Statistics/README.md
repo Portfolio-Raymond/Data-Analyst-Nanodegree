@@ -7,7 +7,7 @@
 
 ### Software and Python Packages 
 jupyter notebook  
-python 3  
+Python (3.6 or higher)    
 
 **Packages**  
 pandas  
