@@ -19,11 +19,11 @@ Your tasks in this project are as follows:
 **Objective:**  Gather data from 3 disparate systems (Excel file, website, and Twitter API). Wrangle and merge the datasets into a master file, then analyze it highlighting at least 3 insights with visualizations. 
 
 
-### Software and Python Libraries    
+### Software and Python Packages   
 Jupyter Notebook  
 Python (3.6 or higher)  
 
-**Libraries**  
+**Packages**  
 - Pandas  
 - Numpy  
 - json  
