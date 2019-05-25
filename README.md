@@ -20,12 +20,12 @@ You will need to install
 - Numpy  
 - Matplotlib
 
-Additional libraries listed with each project  
+Additional packages listed with each project  
   
   
 **R Packages**  
   
-R libraries listed with project  
+R packages listed with project  
 
 
 
