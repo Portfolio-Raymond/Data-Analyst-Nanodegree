@@ -9,19 +9,19 @@ Exploratory Data Analysis (EDA) is the numerical and graphical examination of da
 
 ### Software and R Packages    
 R Studio v1.1.453   
-R v3.5.0   
+R (3.5.0 or higher) 
 
 **Packages**  
-ggplot2  
-dplyr  
-reshape2  
-memisc  
-RColorBrewer  
-GGally  
-Grid  
-GridExtra  
-knitr  
-corrplot  
+- ggplot2  
+- dplyr  
+- reshape2  
+- memisc  
+- RColorBrewer  
+- GGally  
+- Grid  
+- GridExtra  
+- knitr  
+- corrplot  
 
 
 
