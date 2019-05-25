@@ -10,8 +10,8 @@ Jupyter Notebook
 Python (3.6 or higher)    
 
 **Packages**  
-pandas  
-numpy  
-scipy  
-matplotlib  
+- Pandas  
+- Numpy  
+- Scipy  
+- Matplotlib  
 
