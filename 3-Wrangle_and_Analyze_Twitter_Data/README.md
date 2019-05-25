@@ -21,7 +21,7 @@ Your tasks in this project are as follows:
 
 ### Software and Python Packages    
 Jupyter Notebook  
-Python v3.6+  
+Python (3.6 or higher)  
 
 **Packages**  
 pandas  
