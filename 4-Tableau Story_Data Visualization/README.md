@@ -11,6 +11,6 @@ Tableau (2018 or higher)
   
 **Data file**:  baseball_data.csv  
   
-**Project Link**: - https://public.tableau.com/profile/ray5513#!/vizhome/Udacity_Project4_Baseball/Story?publish=yes  
+**Project Link**: https://public.tableau.com/profile/ray5513#!/vizhome/Udacity_Project4_Baseball/Story?publish=yes  
 
 
