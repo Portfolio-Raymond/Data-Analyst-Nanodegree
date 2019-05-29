@@ -130,7 +130,7 @@ Checking for any 'na' values. No na values found.
 ## <0 rows> (or 0-length row.names)
 ```
 
-![](README_Figs/README-unnamed-chunk-4-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-4-1.png)<!-- -->
 
 
 ```
@@ -141,11 +141,11 @@ Checking for any 'na' values. No na values found.
 Fixed acidity in wine. The highest frequency of acidity is around 7 g/L. The plot looks like a normal distribution slightly skewed to the right with some outliers around 15 to 16 grams/L
 
 
-![](README_Figs/README-unnamed-chunk-6-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-6-1.png)<!-- -->
 
 The amount of volative acidity is about a tenth of the fixed acidity. It appears to have bimodal distribution with peaks at 0.4 and 0.6 g/L.
 
-![](README_Figs/README-unnamed-chunk-7-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-7-1.png)<!-- -->
 
 
 
@@ -159,7 +159,7 @@ From the distribution of the citric acid, over 150 wines have very little or no 
 
 
 
-![](README_Figs/README-unnamed-chunk-9-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-9-1.png)<!-- -->
 
 
 
@@ -170,7 +170,7 @@ From the distribution of the citric acid, over 150 wines have very little or no 
 
 For the residual sugar, the distribution appears to be a very narrow normal distribution skewed to the right. The great majority of wines have a concentration of sugar 2.6 g/L and below. However, there are relatively few wines that have amounts up to 15.5 g/L. Wines greater than 45 g/L are considered sweet according to the database wine information. However, the maximum residual sugar shown is 15.5 g/L, so none of the wines are considered sweet. 
 
-![](README_Figs/README-unnamed-chunk-11-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-11-1.png)<!-- -->
 
 
 
@@ -181,7 +181,7 @@ For the residual sugar, the distribution appears to be a very narrow normal dist
 
 We also see for the chlorides content, the distribution appears to be a very narrow normal distribution skewed to the right. The great majority of wines (third quartile) have a concentration of chloride 0.09 g/L and below. However, there are relatively few wines that have amounts up to 0.611 g/L. 
 
-![](README_Figs/README-unnamed-chunk-13-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-13-1.png)<!-- -->
 
 
 
@@ -191,7 +191,7 @@ We also see for the chlorides content, the distribution appears to be a very nar
 ```
 
 
-![](README_Figs/README-unnamed-chunk-15-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-15-1.png)<!-- -->
 
 
 ```
@@ -202,7 +202,7 @@ We also see for the chlorides content, the distribution appears to be a very nar
 We see the total median for free sulfur dioxide is 14 mg/L while the median for total sulfur dioxide is 38 mg/L.
 
 
-![](README_Figs/README-unnamed-chunk-17-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-17-1.png)<!-- -->
 
 
 
@@ -212,7 +212,7 @@ We see the total median for free sulfur dioxide is 14 mg/L while the median for 
 ```
 The density of the wines are close to that of water, which is about 1 g/ml. The range of density values are from 0.99 to 1.0037 g/ml, which is unremarkable.
 
-![](README_Figs/README-unnamed-chunk-19-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-19-1.png)<!-- -->
 
 
 ```
@@ -222,7 +222,7 @@ The density of the wines are close to that of water, which is about 1 g/ml. The 
 
 The plot of the pH has a general uniform distribution, although there are some outliers. The average and median are similar values of 3.3. This shows that the wine in the dataset on average is acidic.
 
-![](README_Figs/README-unnamed-chunk-21-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-21-1.png)<!-- -->
 
 
 
@@ -233,7 +233,7 @@ The plot of the pH has a general uniform distribution, although there are some o
 
 The highest peaks on the plot is between 0.5 and 0.6 g/L.  Sulfates can affect the amount of Sulfur Dioxide in the wine. Some people are also none to be negatively affected by the sulfate content in red wines. 
 
-![](README_Figs/README-unnamed-chunk-23-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-23-1.png)<!-- -->
 
 
 
@@ -251,7 +251,7 @@ The highest peaks on the plot is between 0.5 and 0.6 g/L.  Sulfates can affect t
 The alcohol content plot is quite varied, but is skewed to the right. The range is from 8.4 to 14.90 percent alcohol. Note, however, that the median amount of alcohol content is 10.20. In addition, the greatest count is around 9.5 percent alcohol.  
 
 
-![](README_Figs/README-unnamed-chunk-26-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-26-1.png)<!-- -->
 
 
 Count of Quality Scores
@@ -301,7 +301,7 @@ A variable was created to check the sugar to chlorides (salt) ratio. The great m
 
 
 
-![](README_Figs/README-unnamed-chunk-31-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-31-1.png)<!-- -->
 
 
 
@@ -404,7 +404,7 @@ We calculated the correlation of the dataset to help determine which variables a
 Interestingly, with a value of 0.014 residual sugar does not show a strong correlation with quality. In addition,pH only shows a -0.058 effect. 
 
 ### Correlation Plot
-![](README_Figs/README-unnamed-chunk-34-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-34-1.png)<!-- -->
   
 --------------------------------------------------------------------------------
     
@@ -467,50 +467,50 @@ It appears that the alcohol content has the most influence on quality with a cor
 
 We will use boxplots to see the overall trend of the various variables vs the quality rating.
 
-![](README_Figs/README-unnamed-chunk-38-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-38-1.png)<!-- -->
 
 The plot above shows that the wines that received the higher quality ratings had a higher alcohol content. Except for the rating value of 5, the plot shows a positive trend where the quality rating tend to increase as the alcohol content increases.
 
 
-![](README_Figs/README-unnamed-chunk-39-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-39-1.png)<!-- -->
 
 The plot above shows a positive trend for the amount sulphates vs the quality rating the wines received. 
 
 
-![](README_Figs/README-unnamed-chunk-40-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-40-1.png)<!-- -->
 
 On average, there appears to be a negative relationship between the volatile acidity and quality rating. The lower the volatile acidity, the higher the quality rating the wine receives.
 
-![](README_Figs/README-unnamed-chunk-41-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-41-1.png)<!-- -->
 
 The trend of fixed acidity and the quality is not consistent, so we cannot state a direct relationship between the two variables
 
 
-![](README_Figs/README-unnamed-chunk-42-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-42-1.png)<!-- -->
 
 It appears  that the residual sugar does not have much affect on the quality of the wine as the trend generally remains level.
 
-![](README_Figs/README-unnamed-chunk-43-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-43-1.png)<!-- -->
 
 We do see an affect of the pH on the quality of the wine. The less the pH value, the better quality rating the wine receives. 
 
 
-![](README_Figs/README-unnamed-chunk-44-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-44-1.png)<!-- -->
 
 Citric acid has a positive affect on the quality of the wine. The more citric acid the better rating the wine receives. 
 
 
-![](README_Figs/README-unnamed-chunk-45-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-45-1.png)<!-- -->
 
 There is a slight negative trend for the chlorides content in the wines.
 
 
-![](README_Figs/README-unnamed-chunk-46-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-46-1.png)<!-- -->
 
 Interestingly, the total Sulfur dioxide has a slight concave trend. The amount of total sulfur dioxide increases until quality rating of 5 and then it decreases until 8. We may have to research further to see if there is coincidence with free sulfur dioxide or amount of sulphates. 
 
 
-![](README_Figs/README-unnamed-chunk-47-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-47-1.png)<!-- -->
 
 Although there appears to be a slight negative relationship between quality and density, on average the actual range of values is only about 0.0025 difference between the highest and lowest rating.
 
@@ -519,22 +519,22 @@ Although there appears to be a slight negative relationship between quality and 
 We then plot scatterplots of the significant variables with a trend line. Since they are quantitative variables, scatterplots are appropriate.
 
 
-![](README_Figs/README-unnamed-chunk-48-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-48-1.png)<!-- -->
 
 There does not seem to be much correlation between the alcohol content and the amount of residual sugar. Most of the wines have a residual sugar amount between 1.5 and 3 g/L regardless of alcohol content. 
 
 
-![](README_Figs/README-unnamed-chunk-49-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-49-1.png)<!-- -->
 
 We see that as the fixed acidity decreases the pH increases, which makes sense since higher pH values result from less acidic liquids.
 
-![](README_Figs/README-unnamed-chunk-50-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-50-1.png)<!-- -->
 
 Although, the data is significantly dispersed in the graph, the trend line shows a positive, although not strong, relationship between pH and volatile acidity.
 
 
 
-![](README_Figs/README-unnamed-chunk-51-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-51-1.png)<!-- -->
 
 There is a negative and moderate relationship between the volatile acidity and citric acid.
 
@@ -611,11 +611,11 @@ We also created bins for sulphates amounts. We used the statistics values to hel
 ##          420          544          249          386
 ```
 
-![](README_Figs/README-unnamed-chunk-57-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-57-1.png)<!-- -->
 
 This plot shows that on average the amount of Sulphates is greater in wines with higher ratings despite the alcohol content. However, it shows that wines that received a quality rating of 3, have an alcohol content below 11%. In addition, the Sulphates amount was about 0.75 g/L at the most except for wines of more than 9.0% to 10% alcohol content. These wines when having a rating of 8 had the highest Sulphate amount of about 0.95 g/L.
 
-![](README_Figs/README-unnamed-chunk-58-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-58-1.png)<!-- -->
 
 As we seen the wines with lower volatile acidity received the highest ratings regardless of alcohol content. The wines with a rating of 8 had a volatile acidity of approximately 0.3 g/L to 0.5 g/L except for wines with greater than 12% alcohol content.
   
@@ -627,24 +627,24 @@ The range of the pH values are shown below.
 ```
 
 
-![](README_Figs/README-unnamed-chunk-60-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-60-1.png)<!-- -->
 
 An overview plot of the wines with a pH of 3 and 4 (when rounded) is shown above. We see that  more acidic wines (pH ~ 3) had less volatile acidity for each rating compared to wines with less acidic wines. Generally, for wines with a rounded pH value of 3, the volatile acidity ranged from about 0.35 g/L to 0.8 g/L while wine with a rounded pH value of 4 ranged from about 0.5 g/L to 1.2 g/L.
 
-![](README_Figs/README-unnamed-chunk-61-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-61-1.png)<!-- -->
 
 We then look at the influence of citric acid and alcohol. It appears that the two highest rated wines (7 and 8) shows a citric acid amount ranged from about 0.35 g/L to less than 0.55 g/L While the lower rated wines had a lower amount except for wines with an alcohol content between 8 and 9%. Two of the lower rated wines (3 and 5) had a citric acid amount of about 0.58 and 0.45, respectively.
 
-![](README_Figs/README-unnamed-chunk-62-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-62-1.png)<!-- -->
 
 The plot of fixed acidity and citric acid is shown above as well as the quality rating. On average, we see a positive relationship between fixed acidity and citric acid, and a negative relationship between the alcohol content and fixed acidity.
 
-![](README_Figs/README-unnamed-chunk-63-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-63-1.png)<!-- -->
 
 The plots reflect that on average that wines with lower Sulphates amounts have higher volatile acidity. The rightmost plot also showed a general trend line.
 
 
-![](README_Figs/README-unnamed-chunk-64-1.png)<!-- -->
+![](README_figs/README-unnamed-chunk-64-1.png)<!-- -->
 
 In the plot above, it appears that on average, the higher the Sulphates amount, the higher the citric acid. In addition, there is a slight increase with higher alcohol content except for the highest Sulfates level, which shows a decrease. We see that there is great increase with alcohol content with one of the Sulphates ranges of 0.658 to 0.73.
 
@@ -674,21 +674,21 @@ It appears that as the volatile acidity decreases the quality rating increases d
 # Final Plots and Summary
 
 ### Plot One
-![](README_Figs/README-Plot_One-1.png)<!-- -->
+![](README_figs/README-Plot_One-1.png)<!-- -->
 
 ### Description One
 
 The plot above shows that the wines that received the higher quality ratings had a higher alcohol content. Except for the rating value of 5, the plot shows a positive trend where the quality rating tend to increase as the alcohol content increases.
 
 ### Plot Two
-![](README_Figs/README-Plot_Two-1.png)<!-- -->
+![](README_figs/README-Plot_Two-1.png)<!-- -->
 
 ### Description Two
 
 In the plot above, it appears that on average, the higher the Sulphates amount, the higher the citric acid. In addition, there is a slight increase with higher alcohol content except for the highest Sulfates level, which shows a decrease. We see that there is great increase with alcohol content with one of the Sulphates ranges of 0.658 to 0.73.
 
 ### Plot Three
-![](README_Figs/README-Plot_Three-1.png)<!-- -->
+![](README_figs/README-Plot_Three-1.png)<!-- -->
 
 ### Description Three
 
