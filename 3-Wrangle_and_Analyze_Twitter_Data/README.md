@@ -19,7 +19,7 @@ Your tasks in this project are as follows:
 **Objective:**  Gather data from 3 disparate systems (Excel file, website, and Twitter API). Wrangle and merge the datasets into a master file, then analyze it highlighting at least 3 insights with visualizations. 
 
 **Main project file**: Wrangle and Analyze Data.ipynb  
-**Source files**: twitter-archive-enhanced.csv, image-predictions.tsv, tweet_json.txt    
+**Data files**: twitter-archive-enhanced.csv, image-predictions.tsv, tweet_json.txt    
 **Created file**: twitter_archive_master.csv  
   
   
