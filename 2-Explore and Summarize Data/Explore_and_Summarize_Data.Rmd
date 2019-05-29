@@ -1,9 +1,7 @@
 ---
 title: "Exploration of Red Wine Attributes"  
 author: "Raymond Atherley"  
-output:
-  html_document:
-    keep_md: true
+output: rmarkdown::github_document
 ---
 
 ```{r, echo=FALSE}
